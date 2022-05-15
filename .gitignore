@@ -4,5 +4,7 @@
 
 /.vs
 /vc_solution/.vs
+/vc_solution/*.user
 /obj/*
 /bin/*
+/output/*
